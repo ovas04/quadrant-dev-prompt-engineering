@@ -3,8 +3,7 @@
 
 # [Prompt Engineering Practical Approach]()
 
-This repo has the goal to give a practical and intuitive way for using prompt depending on the knowledge and requirements. The scope of this guideline is general. But mainly the developement process will use as a example
-In addition the application of the approach is related for the examples with Github Copilot.
+This repository aims to provide a practical and intuitive way to use prompts based on knowledge and requirements. The scope of this guideline is general, but it primarily uses the development process as an example. Additionally, the approach is demonstrated through examples involving GitHub Copilot.
 
 ## Getting Started
 
@@ -18,7 +17,7 @@ These two factors can be visualized in a quadrant chart, creating four main zone
 ```mermaid
 quadrantChart
     title Quadrant for Prompting Approach 🤖
-    x-axis Low Knowledge --> High Knowledge
+    x-axis Low knowledge --> High knowledge
     y-axis Unclear Requirements --> Clear Requirements
     quadrant-1 Zero/One shot 
     quadrant-2 Full Prompt 
@@ -42,10 +41,11 @@ The details of the quadrant and the reasons behind each approach can be explored
 
 
 > [!IMPORTANT]  
-> It's important to better understand prompt engineering patterns, so the first section is recommended as initial reading
+> It's important to better understand prompt engineering patterns, making the first section the recommended starting point
 
-## Other Knowdelge source realted and recommended
+## Other Related and Recommended Knowledge Sources
 
 * [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/6-summary#completion)
 *   [Inside GitHub: Working with the LLMs behind GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/inside-github-working-with-the-llms-behind-github-copilot/)
 *   [Prompt Engineering Github](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
+
