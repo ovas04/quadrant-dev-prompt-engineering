@@ -311,5 +311,5 @@ https://github.com/user-attachments/assets/b5bf7b29-8089-43f9-828f-3cf266ef96d2
 * [promptingguide](https://www.promptingguide.ai) 
 * [chatgpt](https://github.com/f/awesome-chatgpt-prompts)
 * [ReAct Article](https://arxiv.org/abs/2210.03629)
-* [Chain of](https://arxiv.org/abs/2201.11903)
+* [Chain of Thought Article](https://arxiv.org/abs/2201.11903)
 * [Promptbase](https://github.com/microsoft/promptbase)
